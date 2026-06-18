@@ -1,0 +1,28 @@
+{
+  "cash": 6324.42,
+  "positions": {
+    "SPCX": {
+      "qty": 11,
+      "avg_cost": 130.0
+    },
+    "GPUS": {
+      "qty": 1000,
+      "avg_cost": 0.51
+    },
+    "MSFT": {
+      "qty": 2,
+      "avg_cost": 379.05
+    },
+    "AMZN": {
+      "qty": 4,
+      "avg_cost": 244.37
+    }
+  },
+  "trades": [
+    "  MANUAL  11 SPCX @ $130.00  cost=$1430.00  (seeded from real position)",
+    "  MANUAL  1000 GPUS @ $0.51  cost=$510.00  (seeded from real position)",
+    "  BOUGHT  2 MSFT @ $379.05  cost=$758.10",
+    "  BOUGHT  4 AMZN @ $244.37  cost=$977.48"
+  ],
+  "starting_cash": 10000.0
+}
